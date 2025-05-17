@@ -1,0 +1,9 @@
+{
+	"name": "dfhttpstoadls",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a9c9e64-0ef3-49ad-b52c-c9ff2cecb2aa",
+		"tenantId": "dc574568-5397-47bc-8014-568cfdf0a23b"
+	}
+}
